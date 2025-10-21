@@ -3,10 +3,16 @@
 Bulk Import Devices into Workspace ONE Dropship Online
 
 .NOTES
-  Version:        1.0
-  Author:         Chris Halstead - chalstead@vmware.com
-  Creation Date:  5/10/2024
-  Purpose/Change: Initial script development
+ # DISCLAIMER:
+# This script is provided "AS IS" without any warranty of any kind, express or implied.
+# The author(s) and associated organization(s) assume no responsibility for any damage
+# or loss resulting from the use of this script. 
+#
+# This script is not an officially supported solution and should be thoroughly tested
+# in a non-production environment before being deployed in production.
+#
+# You are free to modify and adapt this script as per your specific requirements.
+# Use at your own risk.
   
 #>
 
