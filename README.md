@@ -27,13 +27,15 @@ Script using the UEM REST API to bulk add devices to OPS from a CSV file
 
 3. Once you run the script you will be presented the list of devices to be added as read from the CSV file:
 
-   ![Screenshot 2024-05-30 151905](/Images/image1.png)
+   
+<img width="1284" height="339" alt="image" src="https://github.com/user-attachments/assets/d1139538-9898-4bcd-9869-05e5701b4ff5" />
 
    
 
    You will then be prompted if you want to add all of them to the OG specified.   If you click no, nothing with happen, and the script will end.  If you click yes, each device will be added and then a sync to OPS will be initiated.  
 
-   ![Screenshot 2024-05-30 151953](/Images/image2.png)
+   <img width="1279" height="178" alt="image" src="https://github.com/user-attachments/assets/22c2a941-6f4a-4046-a44c-cce10d42f8fe" />
+
 
    If there are any serial numbers that already exist in OPS, you will receive the following error.   Any non-duplicate devices will still be added, and the duplicate serial number will be added into the log file.  
 
