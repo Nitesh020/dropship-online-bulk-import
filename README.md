@@ -11,7 +11,7 @@ Script using the UEM REST API to bulk add devices to OPS from a CSV file
 
    `Serial Number,Tag Name,Device Friendly Name,Model Name`
 
-   `DRTFC6,Dropship, Chris Laptop,Dell G16`
+   `DRTFC6,Dropship, Laptop,Dell G16`
 
    
 
