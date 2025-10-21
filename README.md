@@ -39,10 +39,6 @@ Script using the UEM REST API to bulk add devices to OPS from a CSV file
 
    If there are any serial numbers that already exist in OPS, you will receive the following error.   Any non-duplicate devices will still be added, and the duplicate serial number will be added into the log file.  
 
-   ![Screenshot 2024-05-30 152328](/Images/image3.png)
-
-   
-
 After the script completes running, you can run the devices through the Dropship Online workflow, or verify they were added in the Dropship Provisioning UI in the UEM console.
 
 The log file will be created at `%temp%\uem-dropship-import-<date>.log`
